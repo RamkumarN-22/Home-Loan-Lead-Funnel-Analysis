@@ -1,0 +1,1001 @@
+Lead_ID,Final_Status,Rejection_Reason,Disbursement_Date
+HL10000,Sanctioned,,3/4/2025
+HL10001,Sanctioned,,11/22/2024
+HL10002,Sanctioned,,6/30/2024
+HL10003,Rejected,Negative bureau record,
+HL10004,Withdrawn,,
+HL10005,Rejected,Insufficient documents,
+HL10006,Sanctioned,,6/16/2024
+HL10007,Withdrawn,,
+HL10008,Rejected,Negative bureau record,
+HL10009,Sanctioned,,5/26/2024
+HL10010,Rejected,Negative bureau record,
+HL10011,Sanctioned,,2/7/2025
+HL10012,Withdrawn,,
+HL10013,Rejected,Negative bureau record,
+HL10014,Sanctioned,,2/8/2025
+HL10015,Withdrawn,,
+HL10016,Sanctioned,,2/20/2025
+HL10017,Sanctioned,,1/28/2024
+HL10018,Withdrawn,,
+HL10019,Rejected,High FOIR,
+HL10020,Sanctioned,,3/21/2024
+HL10021,Withdrawn,,
+HL10022,Sanctioned,,2/5/2025
+HL10023,Sanctioned,,1/22/2024
+HL10024,Rejected,Negative bureau record,
+HL10025,Rejected,High FOIR,
+HL10026,Sanctioned,,6/20/2024
+HL10027,Withdrawn,,
+HL10028,Rejected,Low credit score,
+HL10029,Sanctioned,,1/11/2025
+HL10030,Sanctioned,,2/24/2025
+HL10031,Rejected,Property legal issues,
+HL10032,Sanctioned,,9/26/2024
+HL10033,Rejected,Insufficient documents,
+HL10034,Rejected,Insufficient documents,
+HL10035,Sanctioned,,2/5/2024
+HL10036,Sanctioned,,4/1/2024
+HL10037,Sanctioned,,5/29/2024
+HL10038,Withdrawn,,
+HL10039,Sanctioned,,3/20/2025
+HL10040,Rejected,Low credit score,
+HL10041,Withdrawn,,
+HL10042,Sanctioned,,6/17/2024
+HL10043,Rejected,Insufficient documents,
+HL10044,Sanctioned,,1/25/2024
+HL10045,Rejected,Insufficient documents,
+HL10046,Sanctioned,,10/11/2024
+HL10047,Sanctioned,,1/20/2025
+HL10048,Sanctioned,,1/5/2025
+HL10049,Sanctioned,,8/30/2024
+HL10050,Sanctioned,,7/22/2024
+HL10051,Sanctioned,,5/28/2024
+HL10052,Sanctioned,,10/23/2024
+HL10053,Withdrawn,,
+HL10054,Rejected,Property legal issues,
+HL10055,Sanctioned,,5/28/2024
+HL10056,Sanctioned,,10/28/2024
+HL10057,Sanctioned,,11/28/2024
+HL10058,Sanctioned,,2/26/2025
+HL10059,Rejected,Low credit score,
+HL10060,Sanctioned,,11/19/2024
+HL10061,Sanctioned,,1/6/2025
+HL10062,Sanctioned,,6/6/2024
+HL10063,Rejected,Negative bureau record,
+HL10064,Sanctioned,,2/7/2024
+HL10065,Sanctioned,,5/9/2024
+HL10066,Sanctioned,,4/9/2024
+HL10067,Rejected,Insufficient documents,
+HL10068,Sanctioned,,5/26/2024
+HL10069,Withdrawn,,
+HL10070,Sanctioned,,12/7/2024
+HL10071,Sanctioned,,4/26/2024
+HL10072,Sanctioned,,5/11/2024
+HL10073,Sanctioned,,2/12/2024
+HL10074,Withdrawn,,
+HL10075,Sanctioned,,2/11/2025
+HL10076,Withdrawn,,
+HL10077,Sanctioned,,9/13/2024
+HL10078,Sanctioned,,2/9/2024
+HL10079,Withdrawn,,
+HL10080,Sanctioned,,1/14/2025
+HL10081,Rejected,High FOIR,
+HL10082,Sanctioned,,3/28/2024
+HL10083,Sanctioned,,8/4/2024
+HL10084,Rejected,Property legal issues,
+HL10085,Sanctioned,,10/15/2024
+HL10086,Sanctioned,,9/9/2024
+HL10087,Rejected,Insufficient documents,
+HL10088,Sanctioned,,6/15/2024
+HL10089,Sanctioned,,3/6/2025
+HL10090,Sanctioned,,6/24/2024
+HL10091,Rejected,Low credit score,
+HL10092,Sanctioned,,9/20/2024
+HL10093,Withdrawn,,
+HL10094,Withdrawn,,
+HL10095,Rejected,Property legal issues,
+HL10096,Rejected,Low credit score,
+HL10097,Sanctioned,,7/26/2024
+HL10098,Sanctioned,,3/30/2024
+HL10099,Sanctioned,,2/27/2025
+HL10100,Rejected,Low credit score,
+HL10101,Rejected,Low credit score,
+HL10102,Sanctioned,,4/21/2024
+HL10103,Sanctioned,,4/18/2024
+HL10104,Rejected,Negative bureau record,
+HL10105,Withdrawn,,
+HL10106,Withdrawn,,
+HL10107,Sanctioned,,10/17/2024
+HL10108,Withdrawn,,
+HL10109,Sanctioned,,9/15/2024
+HL10110,Rejected,Property legal issues,
+HL10111,Rejected,High FOIR,
+HL10112,Rejected,Negative bureau record,
+HL10113,Sanctioned,,7/27/2024
+HL10114,Rejected,Property legal issues,
+HL10115,Sanctioned,,3/28/2024
+HL10116,Rejected,Insufficient documents,
+HL10117,Rejected,Property legal issues,
+HL10118,Sanctioned,,11/4/2024
+HL10119,Sanctioned,,4/19/2024
+HL10120,Sanctioned,,5/13/2024
+HL10121,Sanctioned,,5/14/2024
+HL10122,Rejected,High FOIR,
+HL10123,Sanctioned,,1/14/2025
+HL10124,Rejected,Insufficient documents,
+HL10125,Sanctioned,,3/16/2025
+HL10126,Sanctioned,,1/6/2025
+HL10127,Sanctioned,,3/1/2025
+HL10128,Sanctioned,,12/19/2024
+HL10129,Rejected,Negative bureau record,
+HL10130,Rejected,Low credit score,
+HL10131,Sanctioned,,12/17/2024
+HL10132,Rejected,Negative bureau record,
+HL10133,Sanctioned,,2/14/2025
+HL10134,Rejected,Property legal issues,
+HL10135,Sanctioned,,1/13/2025
+HL10136,Sanctioned,,2/26/2024
+HL10137,Sanctioned,,10/20/2024
+HL10138,Sanctioned,,1/18/2024
+HL10139,Sanctioned,,4/17/2024
+HL10140,Withdrawn,,
+HL10141,Rejected,Low credit score,
+HL10142,Sanctioned,,9/3/2024
+HL10143,Withdrawn,,
+HL10144,Sanctioned,,1/12/2025
+HL10145,Sanctioned,,9/27/2024
+HL10146,Withdrawn,,
+HL10147,Sanctioned,,12/7/2024
+HL10148,Sanctioned,,11/23/2024
+HL10149,Rejected,Property legal issues,
+HL10150,Sanctioned,,7/22/2024
+HL10151,Withdrawn,,
+HL10152,Withdrawn,,
+HL10153,Sanctioned,,6/9/2024
+HL10154,Sanctioned,,11/15/2024
+HL10155,Sanctioned,,2/5/2024
+HL10156,Rejected,High FOIR,
+HL10157,Sanctioned,,2/26/2025
+HL10158,Sanctioned,,6/17/2024
+HL10159,Sanctioned,,8/12/2024
+HL10160,Rejected,Negative bureau record,
+HL10161,Sanctioned,,2/28/2024
+HL10162,Sanctioned,,6/16/2024
+HL10163,Sanctioned,,12/9/2024
+HL10164,Rejected,Insufficient documents,
+HL10165,Rejected,Insufficient documents,
+HL10166,Withdrawn,,
+HL10167,Sanctioned,,10/23/2024
+HL10168,Sanctioned,,7/14/2024
+HL10169,Sanctioned,,3/7/2025
+HL10170,Sanctioned,,4/2/2024
+HL10171,Rejected,Property legal issues,
+HL10172,Rejected,Negative bureau record,
+HL10173,Rejected,Property legal issues,
+HL10174,Sanctioned,,2/13/2025
+HL10175,Sanctioned,,2/12/2024
+HL10176,Sanctioned,,6/29/2024
+HL10177,Sanctioned,,5/6/2024
+HL10178,Rejected,Insufficient documents,
+HL10179,Rejected,Low credit score,
+HL10180,Sanctioned,,5/8/2024
+HL10181,Sanctioned,,10/16/2024
+HL10182,Rejected,Property legal issues,
+HL10183,Sanctioned,,8/8/2024
+HL10184,Sanctioned,,3/13/2024
+HL10185,Withdrawn,,
+HL10186,Sanctioned,,9/14/2024
+HL10187,Rejected,Low credit score,
+HL10188,Sanctioned,,2/7/2024
+HL10189,Withdrawn,,
+HL10190,Rejected,Insufficient documents,
+HL10191,Rejected,High FOIR,
+HL10192,Sanctioned,,4/13/2024
+HL10193,Sanctioned,,9/29/2024
+HL10194,Rejected,Low credit score,
+HL10195,Rejected,Negative bureau record,
+HL10196,Sanctioned,,6/5/2024
+HL10197,Sanctioned,,5/24/2024
+HL10198,Sanctioned,,9/29/2024
+HL10199,Withdrawn,,
+HL10200,Withdrawn,,
+HL10201,Rejected,Low credit score,
+HL10202,Rejected,Insufficient documents,
+HL10203,Rejected,Property legal issues,
+HL10204,Rejected,Low credit score,
+HL10205,Sanctioned,,4/2/2024
+HL10206,Sanctioned,,4/28/2024
+HL10207,Sanctioned,,9/19/2024
+HL10208,Sanctioned,,2/4/2025
+HL10209,Sanctioned,,5/15/2024
+HL10210,Rejected,Negative bureau record,
+HL10211,Rejected,Insufficient documents,
+HL10212,Rejected,Insufficient documents,
+HL10213,Rejected,Insufficient documents,
+HL10214,Sanctioned,,12/8/2024
+HL10215,Withdrawn,,
+HL10216,Rejected,High FOIR,
+HL10217,Sanctioned,,10/3/2024
+HL10218,Rejected,High FOIR,
+HL10219,Rejected,Property legal issues,
+HL10220,Sanctioned,,1/16/2024
+HL10221,Sanctioned,,6/1/2024
+HL10222,Sanctioned,,3/16/2024
+HL10223,Rejected,High FOIR,
+HL10224,Withdrawn,,
+HL10225,Rejected,Negative bureau record,
+HL10226,Sanctioned,,8/4/2024
+HL10227,Sanctioned,,9/9/2024
+HL10228,Sanctioned,,1/27/2024
+HL10229,Sanctioned,,1/14/2025
+HL10230,Rejected,Negative bureau record,
+HL10231,Sanctioned,,10/6/2024
+HL10232,Sanctioned,,10/10/2024
+HL10233,Sanctioned,,10/17/2024
+HL10234,Withdrawn,,
+HL10235,Sanctioned,,4/23/2024
+HL10236,Rejected,Property legal issues,
+HL10237,Sanctioned,,3/4/2025
+HL10238,Sanctioned,,5/20/2024
+HL10239,Sanctioned,,7/27/2024
+HL10240,Sanctioned,,10/15/2024
+HL10241,Withdrawn,,
+HL10242,Sanctioned,,1/25/2025
+HL10243,Sanctioned,,2/11/2024
+HL10244,Rejected,Negative bureau record,
+HL10245,Withdrawn,,
+HL10246,Sanctioned,,7/29/2024
+HL10247,Sanctioned,,11/25/2024
+HL10248,Sanctioned,,8/2/2024
+HL10249,Sanctioned,,1/28/2025
+HL10250,Withdrawn,,
+HL10251,Withdrawn,,
+HL10252,Sanctioned,,1/11/2024
+HL10253,Sanctioned,,5/28/2024
+HL10254,Rejected,Negative bureau record,
+HL10255,Sanctioned,,5/8/2024
+HL10256,Withdrawn,,
+HL10257,Sanctioned,,4/30/2024
+HL10258,Rejected,Property legal issues,
+HL10259,Sanctioned,,2/12/2025
+HL10260,Withdrawn,,
+HL10261,Sanctioned,,10/18/2024
+HL10262,Rejected,Insufficient documents,
+HL10263,Rejected,Low credit score,
+HL10264,Sanctioned,,4/21/2024
+HL10265,Sanctioned,,1/14/2025
+HL10266,Sanctioned,,1/15/2025
+HL10267,Sanctioned,,3/17/2025
+HL10268,Sanctioned,,7/24/2024
+HL10269,Sanctioned,,1/9/2025
+HL10270,Sanctioned,,3/8/2025
+HL10271,Rejected,High FOIR,
+HL10272,Sanctioned,,4/2/2024
+HL10273,Rejected,Low credit score,
+HL10274,Rejected,Low credit score,
+HL10275,Rejected,Low credit score,
+HL10276,Rejected,Property legal issues,
+HL10277,Sanctioned,,2/10/2025
+HL10278,Sanctioned,,8/27/2024
+HL10279,Sanctioned,,6/17/2024
+HL10280,Sanctioned,,6/6/2024
+HL10281,Sanctioned,,4/2/2024
+HL10282,Rejected,Property legal issues,
+HL10283,Sanctioned,,3/13/2025
+HL10284,Rejected,Negative bureau record,
+HL10285,Sanctioned,,7/28/2024
+HL10286,Withdrawn,,
+HL10287,Rejected,Negative bureau record,
+HL10288,Withdrawn,,
+HL10289,Withdrawn,,
+HL10290,Sanctioned,,2/1/2025
+HL10291,Sanctioned,,11/19/2024
+HL10292,Sanctioned,,2/5/2024
+HL10293,Rejected,Insufficient documents,
+HL10294,Rejected,Property legal issues,
+HL10295,Withdrawn,,
+HL10296,Sanctioned,,3/9/2024
+HL10297,Sanctioned,,3/6/2025
+HL10298,Withdrawn,,
+HL10299,Rejected,Insufficient documents,
+HL10300,Sanctioned,,3/5/2024
+HL10301,Sanctioned,,12/12/2024
+HL10302,Withdrawn,,
+HL10303,Sanctioned,,8/16/2024
+HL10304,Sanctioned,,2/12/2025
+HL10305,Sanctioned,,12/17/2024
+HL10306,Rejected,Property legal issues,
+HL10307,Sanctioned,,6/18/2024
+HL10308,Sanctioned,,12/20/2024
+HL10309,Rejected,Low credit score,
+HL10310,Rejected,Negative bureau record,
+HL10311,Rejected,Property legal issues,
+HL10312,Sanctioned,,10/11/2024
+HL10313,Sanctioned,,11/28/2024
+HL10314,Sanctioned,,3/25/2025
+HL10315,Rejected,Negative bureau record,
+HL10316,Withdrawn,,
+HL10317,Rejected,Negative bureau record,
+HL10318,Withdrawn,,
+HL10319,Rejected,High FOIR,
+HL10320,Sanctioned,,11/27/2024
+HL10321,Sanctioned,,7/18/2024
+HL10322,Sanctioned,,8/30/2024
+HL10323,Sanctioned,,6/27/2024
+HL10324,Sanctioned,,6/26/2024
+HL10325,Rejected,High FOIR,
+HL10326,Rejected,Low credit score,
+HL10327,Sanctioned,,1/30/2025
+HL10328,Rejected,Negative bureau record,
+HL10329,Rejected,Insufficient documents,
+HL10330,Sanctioned,,3/14/2025
+HL10331,Withdrawn,,
+HL10332,Sanctioned,,6/19/2024
+HL10333,Rejected,Low credit score,
+HL10334,Sanctioned,,2/18/2024
+HL10335,Withdrawn,,
+HL10336,Sanctioned,,1/17/2024
+HL10337,Sanctioned,,5/21/2024
+HL10338,Rejected,Negative bureau record,
+HL10339,Sanctioned,,4/3/2024
+HL10340,Rejected,High FOIR,
+HL10341,Sanctioned,,7/29/2024
+HL10342,Withdrawn,,
+HL10343,Rejected,Property legal issues,
+HL10344,Rejected,High FOIR,
+HL10345,Sanctioned,,2/25/2025
+HL10346,Withdrawn,,
+HL10347,Sanctioned,,2/16/2024
+HL10348,Rejected,Property legal issues,
+HL10349,Sanctioned,,7/17/2024
+HL10350,Rejected,Negative bureau record,
+HL10351,Sanctioned,,2/11/2024
+HL10352,Sanctioned,,11/17/2024
+HL10353,Rejected,Insufficient documents,
+HL10354,Sanctioned,,4/13/2024
+HL10355,Sanctioned,,10/21/2024
+HL10356,Rejected,Low credit score,
+HL10357,Rejected,Low credit score,
+HL10358,Withdrawn,,
+HL10359,Rejected,High FOIR,
+HL10360,Sanctioned,,6/2/2024
+HL10361,Sanctioned,,1/20/2024
+HL10362,Sanctioned,,9/26/2024
+HL10363,Withdrawn,,
+HL10364,Withdrawn,,
+HL10365,Sanctioned,,12/23/2024
+HL10366,Rejected,Negative bureau record,
+HL10367,Sanctioned,,3/15/2024
+HL10368,Withdrawn,,
+HL10369,Withdrawn,,
+HL10370,Sanctioned,,9/12/2024
+HL10371,Sanctioned,,5/3/2024
+HL10372,Sanctioned,,8/30/2024
+HL10373,Rejected,High FOIR,
+HL10374,Withdrawn,,
+HL10375,Rejected,Insufficient documents,
+HL10376,Rejected,High FOIR,
+HL10377,Withdrawn,,
+HL10378,Sanctioned,,2/5/2025
+HL10379,Sanctioned,,8/13/2024
+HL10380,Withdrawn,,
+HL10381,Sanctioned,,10/7/2024
+HL10382,Sanctioned,,2/18/2024
+HL10383,Sanctioned,,2/22/2024
+HL10384,Sanctioned,,6/27/2024
+HL10385,Withdrawn,,
+HL10386,Withdrawn,,
+HL10387,Rejected,Insufficient documents,
+HL10388,Sanctioned,,4/12/2024
+HL10389,Sanctioned,,3/18/2025
+HL10390,Sanctioned,,3/10/2024
+HL10391,Withdrawn,,
+HL10392,Rejected,Low credit score,
+HL10393,Rejected,High FOIR,
+HL10394,Sanctioned,,11/18/2024
+HL10395,Sanctioned,,11/29/2024
+HL10396,Sanctioned,,4/6/2024
+HL10397,Rejected,Property legal issues,
+HL10398,Rejected,Low credit score,
+HL10399,Rejected,High FOIR,
+HL10400,Rejected,Insufficient documents,
+HL10401,Sanctioned,,4/1/2024
+HL10402,Withdrawn,,
+HL10403,Sanctioned,,3/2/2025
+HL10404,Withdrawn,,
+HL10405,Rejected,Negative bureau record,
+HL10406,Sanctioned,,3/15/2025
+HL10407,Withdrawn,,
+HL10408,Sanctioned,,9/18/2024
+HL10409,Sanctioned,,12/16/2024
+HL10410,Rejected,High FOIR,
+HL10411,Withdrawn,,
+HL10412,Withdrawn,,
+HL10413,Sanctioned,,3/14/2025
+HL10414,Rejected,Low credit score,
+HL10415,Sanctioned,,1/23/2025
+HL10416,Sanctioned,,3/7/2024
+HL10417,Sanctioned,,10/23/2024
+HL10418,Rejected,Property legal issues,
+HL10419,Sanctioned,,8/3/2024
+HL10420,Sanctioned,,1/21/2024
+HL10421,Sanctioned,,1/13/2024
+HL10422,Sanctioned,,3/22/2024
+HL10423,Sanctioned,,3/12/2025
+HL10424,Sanctioned,,2/1/2024
+HL10425,Rejected,Insufficient documents,
+HL10426,Withdrawn,,
+HL10427,Sanctioned,,4/9/2024
+HL10428,Sanctioned,,11/3/2024
+HL10429,Sanctioned,,9/15/2024
+HL10430,Rejected,Property legal issues,
+HL10431,Sanctioned,,2/14/2025
+HL10432,Sanctioned,,2/26/2024
+HL10433,Rejected,Negative bureau record,
+HL10434,Withdrawn,,
+HL10435,Rejected,High FOIR,
+HL10436,Rejected,Negative bureau record,
+HL10437,Withdrawn,,
+HL10438,Sanctioned,,5/4/2024
+HL10439,Sanctioned,,1/31/2025
+HL10440,Rejected,Negative bureau record,
+HL10441,Rejected,Negative bureau record,
+HL10442,Withdrawn,,
+HL10443,Sanctioned,,1/21/2024
+HL10444,Sanctioned,,5/5/2024
+HL10445,Sanctioned,,9/9/2024
+HL10446,Sanctioned,,6/30/2024
+HL10447,Rejected,Negative bureau record,
+HL10448,Rejected,High FOIR,
+HL10449,Rejected,Property legal issues,
+HL10450,Sanctioned,,1/1/2025
+HL10451,Withdrawn,,
+HL10452,Sanctioned,,1/3/2025
+HL10453,Rejected,Insufficient documents,
+HL10454,Rejected,Low credit score,
+HL10455,Sanctioned,,12/14/2024
+HL10456,Sanctioned,,1/24/2025
+HL10457,Rejected,Low credit score,
+HL10458,Rejected,Negative bureau record,
+HL10459,Sanctioned,,1/28/2025
+HL10460,Sanctioned,,1/18/2025
+HL10461,Rejected,Insufficient documents,
+HL10462,Sanctioned,,12/20/2024
+HL10463,Sanctioned,,10/2/2024
+HL10464,Withdrawn,,
+HL10465,Rejected,Property legal issues,
+HL10466,Sanctioned,,3/22/2024
+HL10467,Sanctioned,,1/27/2025
+HL10468,Rejected,Low credit score,
+HL10469,Rejected,Insufficient documents,
+HL10470,Sanctioned,,1/16/2025
+HL10471,Sanctioned,,1/16/2025
+HL10472,Rejected,Property legal issues,
+HL10473,Sanctioned,,7/7/2024
+HL10474,Sanctioned,,4/20/2024
+HL10475,Sanctioned,,6/4/2024
+HL10476,Withdrawn,,
+HL10477,Sanctioned,,4/14/2024
+HL10478,Rejected,High FOIR,
+HL10479,Rejected,Low credit score,
+HL10480,Sanctioned,,11/30/2024
+HL10481,Sanctioned,,1/17/2024
+HL10482,Rejected,Property legal issues,
+HL10483,Withdrawn,,
+HL10484,Rejected,Property legal issues,
+HL10485,Sanctioned,,5/9/2024
+HL10486,Rejected,Property legal issues,
+HL10487,Withdrawn,,
+HL10488,Rejected,Negative bureau record,
+HL10489,Rejected,Negative bureau record,
+HL10490,Withdrawn,,
+HL10491,Withdrawn,,
+HL10492,Sanctioned,,10/6/2024
+HL10493,Withdrawn,,
+HL10494,Rejected,Property legal issues,
+HL10495,Rejected,High FOIR,
+HL10496,Withdrawn,,
+HL10497,Sanctioned,,2/16/2024
+HL10498,Withdrawn,,
+HL10499,Sanctioned,,10/7/2024
+HL10500,Withdrawn,,
+HL10501,Sanctioned,,2/10/2024
+HL10502,Sanctioned,,8/30/2024
+HL10503,Rejected,Insufficient documents,
+HL10504,Rejected,Property legal issues,
+HL10505,Sanctioned,,11/24/2024
+HL10506,Sanctioned,,6/3/2024
+HL10507,Rejected,High FOIR,
+HL10508,Sanctioned,,9/5/2024
+HL10509,Sanctioned,,11/21/2024
+HL10510,Sanctioned,,1/25/2024
+HL10511,Sanctioned,,5/7/2024
+HL10512,Rejected,Low credit score,
+HL10513,Withdrawn,,
+HL10514,Rejected,Insufficient documents,
+HL10515,Sanctioned,,3/8/2024
+HL10516,Withdrawn,,
+HL10517,Sanctioned,,5/30/2024
+HL10518,Sanctioned,,4/19/2024
+HL10519,Rejected,Low credit score,
+HL10520,Rejected,Negative bureau record,
+HL10521,Rejected,High FOIR,
+HL10522,Sanctioned,,2/22/2024
+HL10523,Sanctioned,,8/10/2024
+HL10524,Rejected,Negative bureau record,
+HL10525,Sanctioned,,10/25/2024
+HL10526,Withdrawn,,
+HL10527,Withdrawn,,
+HL10528,Sanctioned,,4/24/2024
+HL10529,Sanctioned,,7/19/2024
+HL10530,Rejected,Low credit score,
+HL10531,Sanctioned,,4/29/2024
+HL10532,Withdrawn,,
+HL10533,Sanctioned,,8/31/2024
+HL10534,Rejected,Property legal issues,
+HL10535,Sanctioned,,11/7/2024
+HL10536,Sanctioned,,1/18/2025
+HL10537,Withdrawn,,
+HL10538,Sanctioned,,4/10/2024
+HL10539,Rejected,Property legal issues,
+HL10540,Sanctioned,,11/1/2024
+HL10541,Sanctioned,,11/27/2024
+HL10542,Rejected,Insufficient documents,
+HL10543,Sanctioned,,8/28/2024
+HL10544,Withdrawn,,
+HL10545,Sanctioned,,4/13/2024
+HL10546,Sanctioned,,8/24/2024
+HL10547,Sanctioned,,5/20/2024
+HL10548,Sanctioned,,7/14/2024
+HL10549,Sanctioned,,10/10/2024
+HL10550,Sanctioned,,2/26/2025
+HL10551,Rejected,Insufficient documents,
+HL10552,Sanctioned,,4/14/2024
+HL10553,Sanctioned,,2/23/2024
+HL10554,Sanctioned,,12/31/2024
+HL10555,Sanctioned,,3/11/2025
+HL10556,Rejected,High FOIR,
+HL10557,Sanctioned,,6/25/2024
+HL10558,Rejected,Low credit score,
+HL10559,Sanctioned,,1/13/2024
+HL10560,Sanctioned,,10/14/2024
+HL10561,Sanctioned,,10/6/2024
+HL10562,Withdrawn,,
+HL10563,Sanctioned,,1/26/2024
+HL10564,Rejected,Insufficient documents,
+HL10565,Sanctioned,,1/29/2024
+HL10566,Rejected,Property legal issues,
+HL10567,Rejected,High FOIR,
+HL10568,Withdrawn,,
+HL10569,Rejected,High FOIR,
+HL10570,Rejected,Low credit score,
+HL10571,Rejected,Negative bureau record,
+HL10572,Sanctioned,,1/21/2025
+HL10573,Rejected,Property legal issues,
+HL10574,Rejected,Negative bureau record,
+HL10575,Sanctioned,,11/7/2024
+HL10576,Sanctioned,,9/4/2024
+HL10577,Withdrawn,,
+HL10578,Sanctioned,,5/29/2024
+HL10579,Sanctioned,,4/1/2024
+HL10580,Rejected,High FOIR,
+HL10581,Rejected,Negative bureau record,
+HL10582,Sanctioned,,1/15/2025
+HL10583,Rejected,High FOIR,
+HL10584,Sanctioned,,8/26/2024
+HL10585,Sanctioned,,1/22/2025
+HL10586,Sanctioned,,5/20/2024
+HL10587,Rejected,High FOIR,
+HL10588,Sanctioned,,1/14/2024
+HL10589,Rejected,High FOIR,
+HL10590,Rejected,Property legal issues,
+HL10591,Sanctioned,,12/3/2024
+HL10592,Sanctioned,,1/7/2025
+HL10593,Rejected,Low credit score,
+HL10594,Sanctioned,,3/12/2024
+HL10595,Sanctioned,,12/6/2024
+HL10596,Rejected,Low credit score,
+HL10597,Withdrawn,,
+HL10598,Withdrawn,,
+HL10599,Rejected,Negative bureau record,
+HL10600,Rejected,High FOIR,
+HL10601,Rejected,Negative bureau record,
+HL10602,Sanctioned,,10/6/2024
+HL10603,Withdrawn,,
+HL10604,Rejected,High FOIR,
+HL10605,Sanctioned,,3/22/2025
+HL10606,Sanctioned,,3/22/2024
+HL10607,Rejected,Low credit score,
+HL10608,Withdrawn,,
+HL10609,Sanctioned,,7/5/2024
+HL10610,Sanctioned,,6/8/2024
+HL10611,Sanctioned,,10/20/2024
+HL10612,Sanctioned,,9/26/2024
+HL10613,Sanctioned,,4/29/2024
+HL10614,Rejected,Negative bureau record,
+HL10615,Rejected,High FOIR,
+HL10616,Rejected,Property legal issues,
+HL10617,Rejected,Insufficient documents,
+HL10618,Withdrawn,,
+HL10619,Sanctioned,,11/29/2024
+HL10620,Sanctioned,,2/25/2025
+HL10621,Sanctioned,,11/21/2024
+HL10622,Rejected,Insufficient documents,
+HL10623,Sanctioned,,3/30/2024
+HL10624,Withdrawn,,
+HL10625,Rejected,Property legal issues,
+HL10626,Rejected,Low credit score,
+HL10627,Withdrawn,,
+HL10628,Sanctioned,,1/25/2025
+HL10629,Sanctioned,,12/1/2024
+HL10630,Sanctioned,,12/5/2024
+HL10631,Withdrawn,,
+HL10632,Sanctioned,,3/3/2025
+HL10633,Sanctioned,,11/25/2024
+HL10634,Sanctioned,,7/6/2024
+HL10635,Rejected,High FOIR,
+HL10636,Withdrawn,,
+HL10637,Sanctioned,,2/16/2024
+HL10638,Sanctioned,,1/23/2024
+HL10639,Withdrawn,,
+HL10640,Rejected,Low credit score,
+HL10641,Sanctioned,,11/21/2024
+HL10642,Rejected,Negative bureau record,
+HL10643,Sanctioned,,5/13/2024
+HL10644,Sanctioned,,8/3/2024
+HL10645,Sanctioned,,11/24/2024
+HL10646,Rejected,Negative bureau record,
+HL10647,Rejected,Low credit score,
+HL10648,Sanctioned,,2/15/2024
+HL10649,Sanctioned,,10/21/2024
+HL10650,Sanctioned,,9/22/2024
+HL10651,Sanctioned,,9/20/2024
+HL10652,Sanctioned,,1/31/2024
+HL10653,Rejected,Low credit score,
+HL10654,Sanctioned,,7/6/2024
+HL10655,Rejected,Property legal issues,
+HL10656,Rejected,Property legal issues,
+HL10657,Sanctioned,,1/11/2024
+HL10658,Sanctioned,,11/16/2024
+HL10659,Rejected,High FOIR,
+HL10660,Rejected,Negative bureau record,
+HL10661,Sanctioned,,6/1/2024
+HL10662,Withdrawn,,
+HL10663,Rejected,High FOIR,
+HL10664,Rejected,Insufficient documents,
+HL10665,Rejected,Property legal issues,
+HL10666,Sanctioned,,1/22/2024
+HL10667,Rejected,High FOIR,
+HL10668,Sanctioned,,2/9/2024
+HL10669,Sanctioned,,4/14/2024
+HL10670,Sanctioned,,1/20/2024
+HL10671,Sanctioned,,1/8/2025
+HL10672,Rejected,Negative bureau record,
+HL10673,Sanctioned,,9/19/2024
+HL10674,Sanctioned,,12/15/2024
+HL10675,Rejected,Low credit score,
+HL10676,Rejected,Negative bureau record,
+HL10677,Rejected,Property legal issues,
+HL10678,Rejected,Insufficient documents,
+HL10679,Sanctioned,,6/8/2024
+HL10680,Sanctioned,,5/5/2024
+HL10681,Withdrawn,,
+HL10682,Sanctioned,,10/27/2024
+HL10683,Sanctioned,,9/5/2024
+HL10684,Sanctioned,,11/20/2024
+HL10685,Withdrawn,,
+HL10686,Sanctioned,,7/1/2024
+HL10687,Withdrawn,,
+HL10688,Sanctioned,,2/4/2025
+HL10689,Sanctioned,,4/2/2024
+HL10690,Sanctioned,,12/20/2024
+HL10691,Sanctioned,,8/18/2024
+HL10692,Rejected,Low credit score,
+HL10693,Sanctioned,,9/12/2024
+HL10694,Sanctioned,,12/9/2024
+HL10695,Withdrawn,,
+HL10696,Sanctioned,,8/5/2024
+HL10697,Withdrawn,,
+HL10698,Rejected,Negative bureau record,
+HL10699,Sanctioned,,5/6/2024
+HL10700,Sanctioned,,5/17/2024
+HL10701,Sanctioned,,8/26/2024
+HL10702,Sanctioned,,4/1/2024
+HL10703,Withdrawn,,
+HL10704,Rejected,Low credit score,
+HL10705,Sanctioned,,1/19/2024
+HL10706,Sanctioned,,1/1/2025
+HL10707,Sanctioned,,2/10/2024
+HL10708,Sanctioned,,9/8/2024
+HL10709,Sanctioned,,1/20/2024
+HL10710,Rejected,Insufficient documents,
+HL10711,Rejected,Property legal issues,
+HL10712,Sanctioned,,3/9/2025
+HL10713,Sanctioned,,3/4/2025
+HL10714,Withdrawn,,
+HL10715,Withdrawn,,
+HL10716,Rejected,Property legal issues,
+HL10717,Sanctioned,,2/6/2024
+HL10718,Sanctioned,,7/16/2024
+HL10719,Withdrawn,,
+HL10720,Sanctioned,,3/27/2024
+HL10721,Withdrawn,,
+HL10722,Rejected,High FOIR,
+HL10723,Sanctioned,,10/21/2024
+HL10724,Sanctioned,,4/7/2024
+HL10725,Sanctioned,,10/30/2024
+HL10726,Sanctioned,,2/18/2024
+HL10727,Sanctioned,,3/4/2024
+HL10728,Rejected,Property legal issues,
+HL10729,Sanctioned,,3/2/2024
+HL10730,Rejected,Negative bureau record,
+HL10731,Rejected,Property legal issues,
+HL10732,Sanctioned,,7/5/2024
+HL10733,Rejected,Low credit score,
+HL10734,Sanctioned,,12/11/2024
+HL10735,Sanctioned,,11/1/2024
+HL10736,Sanctioned,,1/18/2025
+HL10737,Rejected,Low credit score,
+HL10738,Sanctioned,,11/25/2024
+HL10739,Rejected,High FOIR,
+HL10740,Sanctioned,,5/12/2024
+HL10741,Rejected,Insufficient documents,
+HL10742,Sanctioned,,1/14/2024
+HL10743,Sanctioned,,10/25/2024
+HL10744,Sanctioned,,2/21/2024
+HL10745,Sanctioned,,3/14/2024
+HL10746,Sanctioned,,1/5/2025
+HL10747,Sanctioned,,11/19/2024
+HL10748,Withdrawn,,
+HL10749,Rejected,Negative bureau record,
+HL10750,Sanctioned,,1/9/2025
+HL10751,Rejected,High FOIR,
+HL10752,Sanctioned,,7/28/2024
+HL10753,Rejected,Insufficient documents,
+HL10754,Rejected,Insufficient documents,
+HL10755,Rejected,Insufficient documents,
+HL10756,Sanctioned,,1/14/2024
+HL10757,Rejected,Property legal issues,
+HL10758,Sanctioned,,3/5/2024
+HL10759,Withdrawn,,
+HL10760,Sanctioned,,1/30/2025
+HL10761,Sanctioned,,12/17/2024
+HL10762,Rejected,Property legal issues,
+HL10763,Sanctioned,,8/12/2024
+HL10764,Sanctioned,,8/24/2024
+HL10765,Sanctioned,,6/21/2024
+HL10766,Rejected,Property legal issues,
+HL10767,Sanctioned,,7/27/2024
+HL10768,Sanctioned,,2/26/2025
+HL10769,Sanctioned,,3/4/2024
+HL10770,Sanctioned,,1/3/2025
+HL10771,Rejected,High FOIR,
+HL10772,Rejected,Property legal issues,
+HL10773,Sanctioned,,9/9/2024
+HL10774,Rejected,Property legal issues,
+HL10775,Sanctioned,,6/14/2024
+HL10776,Sanctioned,,8/11/2024
+HL10777,Sanctioned,,6/29/2024
+HL10778,Sanctioned,,1/19/2025
+HL10779,Withdrawn,,
+HL10780,Sanctioned,,7/15/2024
+HL10781,Sanctioned,,8/9/2024
+HL10782,Rejected,Low credit score,
+HL10783,Sanctioned,,2/10/2024
+HL10784,Sanctioned,,12/9/2024
+HL10785,Sanctioned,,6/23/2024
+HL10786,Rejected,Negative bureau record,
+HL10787,Rejected,Low credit score,
+HL10788,Sanctioned,,8/18/2024
+HL10789,Sanctioned,,3/23/2024
+HL10790,Sanctioned,,2/11/2024
+HL10791,Sanctioned,,3/10/2025
+HL10792,Withdrawn,,
+HL10793,Sanctioned,,1/28/2024
+HL10794,Sanctioned,,3/4/2024
+HL10795,Sanctioned,,9/5/2024
+HL10796,Rejected,Low credit score,
+HL10797,Sanctioned,,5/9/2024
+HL10798,Sanctioned,,1/16/2025
+HL10799,Sanctioned,,7/3/2024
+HL10800,Sanctioned,,3/4/2024
+HL10801,Withdrawn,,
+HL10802,Rejected,Negative bureau record,
+HL10803,Sanctioned,,7/23/2024
+HL10804,Sanctioned,,1/12/2025
+HL10805,Sanctioned,,5/29/2024
+HL10806,Sanctioned,,6/2/2024
+HL10807,Sanctioned,,3/18/2025
+HL10808,Sanctioned,,9/29/2024
+HL10809,Sanctioned,,4/24/2024
+HL10810,Sanctioned,,3/24/2024
+HL10811,Sanctioned,,3/12/2024
+HL10812,Sanctioned,,8/26/2024
+HL10813,Rejected,Property legal issues,
+HL10814,Sanctioned,,2/22/2024
+HL10815,Rejected,High FOIR,
+HL10816,Sanctioned,,8/26/2024
+HL10817,Sanctioned,,2/2/2025
+HL10818,Rejected,Negative bureau record,
+HL10819,Rejected,Insufficient documents,
+HL10820,Sanctioned,,8/24/2024
+HL10821,Sanctioned,,9/14/2024
+HL10822,Rejected,Property legal issues,
+HL10823,Sanctioned,,2/13/2025
+HL10824,Sanctioned,,6/1/2024
+HL10825,Sanctioned,,2/10/2025
+HL10826,Sanctioned,,9/6/2024
+HL10827,Sanctioned,,4/1/2024
+HL10828,Sanctioned,,1/2/2025
+HL10829,Sanctioned,,3/18/2024
+HL10830,Sanctioned,,4/29/2024
+HL10831,Sanctioned,,3/23/2025
+HL10832,Withdrawn,,
+HL10833,Rejected,Insufficient documents,
+HL10834,Sanctioned,,3/3/2024
+HL10835,Rejected,High FOIR,
+HL10836,Sanctioned,,4/19/2024
+HL10837,Withdrawn,,
+HL10838,Sanctioned,,10/7/2024
+HL10839,Sanctioned,,2/1/2024
+HL10840,Withdrawn,,
+HL10841,Sanctioned,,12/4/2024
+HL10842,Rejected,Low credit score,
+HL10843,Sanctioned,,1/4/2025
+HL10844,Withdrawn,,
+HL10845,Rejected,Low credit score,
+HL10846,Sanctioned,,9/21/2024
+HL10847,Sanctioned,,10/13/2024
+HL10848,Rejected,Low credit score,
+HL10849,Rejected,Insufficient documents,
+HL10850,Withdrawn,,
+HL10851,Sanctioned,,5/23/2024
+HL10852,Rejected,Property legal issues,
+HL10853,Withdrawn,,
+HL10854,Rejected,High FOIR,
+HL10855,Sanctioned,,1/29/2025
+HL10856,Withdrawn,,
+HL10857,Rejected,Insufficient documents,
+HL10858,Sanctioned,,11/11/2024
+HL10859,Withdrawn,,
+HL10860,Sanctioned,,3/25/2025
+HL10861,Withdrawn,,
+HL10862,Sanctioned,,2/25/2025
+HL10863,Rejected,High FOIR,
+HL10864,Rejected,Insufficient documents,
+HL10865,Sanctioned,,12/4/2024
+HL10866,Rejected,Insufficient documents,
+HL10867,Sanctioned,,3/29/2024
+HL10868,Withdrawn,,
+HL10869,Sanctioned,,5/26/2024
+HL10870,Sanctioned,,8/4/2024
+HL10871,Sanctioned,,11/11/2024
+HL10872,Sanctioned,,8/10/2024
+HL10873,Sanctioned,,2/16/2025
+HL10874,Sanctioned,,2/1/2025
+HL10875,Sanctioned,,6/18/2024
+HL10876,Rejected,Insufficient documents,
+HL10877,Sanctioned,,3/30/2024
+HL10878,Sanctioned,,9/20/2024
+HL10879,Sanctioned,,3/8/2024
+HL10880,Withdrawn,,
+HL10881,Sanctioned,,9/14/2024
+HL10882,Withdrawn,,
+HL10883,Sanctioned,,10/4/2024
+HL10884,Sanctioned,,4/13/2024
+HL10885,Sanctioned,,4/19/2024
+HL10886,Sanctioned,,2/11/2025
+HL10887,Sanctioned,,4/27/2024
+HL10888,Sanctioned,,4/10/2024
+HL10889,Withdrawn,,
+HL10890,Sanctioned,,9/29/2024
+HL10891,Sanctioned,,4/8/2024
+HL10892,Sanctioned,,9/13/2024
+HL10893,Withdrawn,,
+HL10894,Withdrawn,,
+HL10895,Rejected,Insufficient documents,
+HL10896,Sanctioned,,2/25/2024
+HL10897,Sanctioned,,8/26/2024
+HL10898,Rejected,Insufficient documents,
+HL10899,Sanctioned,,12/11/2024
+HL10900,Sanctioned,,5/2/2024
+HL10901,Rejected,Negative bureau record,
+HL10902,Withdrawn,,
+HL10903,Sanctioned,,12/15/2024
+HL10904,Rejected,Insufficient documents,
+HL10905,Rejected,Negative bureau record,
+HL10906,Sanctioned,,4/19/2024
+HL10907,Sanctioned,,6/1/2024
+HL10908,Sanctioned,,8/11/2024
+HL10909,Sanctioned,,12/24/2024
+HL10910,Withdrawn,,
+HL10911,Rejected,Negative bureau record,
+HL10912,Rejected,Negative bureau record,
+HL10913,Sanctioned,,6/9/2024
+HL10914,Withdrawn,,
+HL10915,Withdrawn,,
+HL10916,Rejected,Property legal issues,
+HL10917,Rejected,High FOIR,
+HL10918,Withdrawn,,
+HL10919,Sanctioned,,1/15/2024
+HL10920,Sanctioned,,5/28/2024
+HL10921,Withdrawn,,
+HL10922,Withdrawn,,
+HL10923,Rejected,Low credit score,
+HL10924,Rejected,High FOIR,
+HL10925,Withdrawn,,
+HL10926,Rejected,Low credit score,
+HL10927,Sanctioned,,4/22/2024
+HL10928,Withdrawn,,
+HL10929,Sanctioned,,2/5/2024
+HL10930,Sanctioned,,5/18/2024
+HL10931,Withdrawn,,
+HL10932,Sanctioned,,11/3/2024
+HL10933,Sanctioned,,3/6/2024
+HL10934,Rejected,Insufficient documents,
+HL10935,Sanctioned,,12/14/2024
+HL10936,Rejected,Insufficient documents,
+HL10937,Withdrawn,,
+HL10938,Rejected,Insufficient documents,
+HL10939,Sanctioned,,11/1/2024
+HL10940,Withdrawn,,
+HL10941,Sanctioned,,7/25/2024
+HL10942,Sanctioned,,3/10/2025
+HL10943,Rejected,Insufficient documents,
+HL10944,Sanctioned,,1/19/2024
+HL10945,Withdrawn,,
+HL10946,Sanctioned,,3/4/2024
+HL10947,Rejected,High FOIR,
+HL10948,Sanctioned,,11/3/2024
+HL10949,Rejected,Low credit score,
+HL10950,Sanctioned,,4/11/2024
+HL10951,Sanctioned,,4/6/2024
+HL10952,Sanctioned,,5/13/2024
+HL10953,Sanctioned,,1/1/2025
+HL10954,Withdrawn,,
+HL10955,Sanctioned,,1/20/2024
+HL10956,Sanctioned,,4/19/2024
+HL10957,Sanctioned,,1/1/2025
+HL10958,Sanctioned,,1/29/2024
+HL10959,Withdrawn,,
+HL10960,Sanctioned,,11/1/2024
+HL10961,Rejected,Insufficient documents,
+HL10962,Rejected,Low credit score,
+HL10963,Rejected,Low credit score,
+HL10964,Sanctioned,,8/24/2024
+HL10965,Rejected,Insufficient documents,
+HL10966,Sanctioned,,1/21/2025
+HL10967,Rejected,Insufficient documents,
+HL10968,Rejected,Low credit score,
+HL10969,Sanctioned,,2/2/2024
+HL10970,Rejected,Property legal issues,
+HL10971,Sanctioned,,6/7/2024
+HL10972,Rejected,Low credit score,
+HL10973,Rejected,Property legal issues,
+HL10974,Rejected,Property legal issues,
+HL10975,Rejected,Insufficient documents,
+HL10976,Sanctioned,,8/17/2024
+HL10977,Rejected,Low credit score,
+HL10978,Sanctioned,,12/17/2024
+HL10979,Sanctioned,,3/1/2025
+HL10980,Rejected,High FOIR,
+HL10981,Sanctioned,,6/26/2024
+HL10982,Sanctioned,,10/30/2024
+HL10983,Rejected,Property legal issues,
+HL10984,Withdrawn,,
+HL10985,Withdrawn,,
+HL10986,Sanctioned,,2/1/2024
+HL10987,Sanctioned,,7/3/2024
+HL10988,Sanctioned,,2/18/2024
+HL10989,Sanctioned,,3/10/2024
+HL10990,Rejected,Negative bureau record,
+HL10991,Rejected,Negative bureau record,
+HL10992,Sanctioned,,9/6/2024
+HL10993,Sanctioned,,5/11/2024
+HL10994,Withdrawn,,
+HL10995,Rejected,High FOIR,
+HL10996,Rejected,Property legal issues,
+HL10997,Sanctioned,,2/27/2024
+HL10998,Sanctioned,,11/1/2024
+HL10999,Rejected,Property legal issues,
